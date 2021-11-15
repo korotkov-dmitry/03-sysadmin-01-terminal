@@ -40,7 +40,7 @@
     
 или командами
 
-    `config.vm.provider "virtualbox" do |vb|
+    `config.vm.provider "virtualbox" do |v|
       vb.memory = "1024"
       vb.cpu = "2"
     end`
